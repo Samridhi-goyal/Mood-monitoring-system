@@ -76,12 +76,6 @@ Used for processing entries, graphs, and suggestions.
 
 ---
 
-## **📂 PROJECT STRUCTURE**
-
-(To be added after you share the GitHub link.)
-
----
-
 ## **📝 SUMMARY**
 
 This project helps users track their emotions, visualize patterns, and observe trends over time.  
