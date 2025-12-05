@@ -56,3 +56,35 @@ typedef struct {
     char date[20];
     int rating;
 } MoodLog;
+```
+
+### **✔ Header Files**
+All declarations are stored in `mood_tracker.h` to keep the code modular.
+
+### **✔ Modular Programming**
+* `.c` files → logic/implementation  
+* `.h` file → declarations, structure definitions
+
+### **✔ File Handling**
+Reads from and writes to `mood_logs.txt`.
+
+### **✔ Arrays**
+Stores up to 200 mood records in an array.
+
+### **✔ Loops & Conditionals**
+Used for processing entries, graphs, and suggestions.
+
+---
+
+## **📂 PROJECT STRUCTURE**
+
+(To be added after you share the GitHub link.)
+
+---
+
+## **📝 SUMMARY**
+
+This project helps users track their emotions, visualize patterns, and observe trends over time.  
+It demonstrates modular programming, structures, file handling, and clean C coding practices—making it ideal for college submissions.
+
+---
